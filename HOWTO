@@ -1,0 +1,4 @@
+Very simple usage:
+- First of all extract all the volume wherever you want (you can look how to do here https://wiki.gnome.org/Apps/DejaDup/Help/Restore/WorstCase#Restoring_by_Hand)
+- Then you will have 2 folders: snapshot, with all the smaller file, and multivol_snapshot: put the script here.
+- Launch it and make it go!
