@@ -4,8 +4,7 @@ OIFS="$IFS"
 IFS=$'\n'
 for f in `find . -type d -links 2`
 do
-######BASIC STEP######
-#
+######BASIC STEP#######
 cd $f
 echo "changed dir to $f"
 foldername=${PWD##*/}
